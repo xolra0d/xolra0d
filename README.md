@@ -3,7 +3,8 @@
 Backend developer, currently based in Riga, Latvia
 
 How to reach me:
-* mail: xolra0d@outlook.com
+* mail: sn24008@edu.lu.lv
+* Telegram: @xolra0d
 
 ## My Stack
 * Languages: ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
