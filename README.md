@@ -3,7 +3,7 @@
 Backend developer, currently based in Riga, Latvia
 
 How to reach me:
-* mail: sn24008@edu.lu.lv
+* mail: a@xolra0d.com
 * Telegram: @xolra0d
 
 ## My Stack
